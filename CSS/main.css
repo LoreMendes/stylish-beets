@@ -55,6 +55,7 @@ figcaption {
 
 main {
   font-size: 1.125rem;
+  color: #222;
 }
 
 main p:first-child {
