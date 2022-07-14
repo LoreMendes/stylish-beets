@@ -36,6 +36,11 @@ a {
   color: #8f2440;
 }
 
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 img {
   width: 100%;
 }
