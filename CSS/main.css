@@ -11,7 +11,7 @@ body {
   line-height: 1.5;
   text-decoration: none;
   font-family: "PT Serif";
-  font-style: regular;
+  font-style: normal;
 }
 
 h1,h2 {
@@ -36,14 +36,8 @@ a {
   color: #8f2440;
 }
 
-a: hover {
-  color: #3f1622;
-  text-decoration: underline;
-
-}
-
 img {
-  width: 100%%;
+  width: 100%;
 }
 
 figcaption {
