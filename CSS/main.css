@@ -14,8 +14,8 @@ body {
   font-style: normal;
 }
 
-h1,h2 {
-  font-family:"PT Sans";
+h1, h2 {
+  font-family: "PT Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 1.5rem;
@@ -23,7 +23,7 @@ h1,h2 {
 }
 
 nav ol {
-  font-family:"PT Sans";
+  font-family: "PT Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 1.125rem;
@@ -42,7 +42,7 @@ img {
 
 figcaption {
   font-family: "PT Serif";
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
   text-align: center;
   font-style: italic;
@@ -52,24 +52,24 @@ main {
   font-size: 1.125rem;
 }
 
-main p:first-child{
+main p:first-child {
   font-weight: bold;
 }
 
 blockquote {
   font-size: 1.5rem;
-  text-align:left;
+  text-align: left;
   text-indent: .8em;
   font-weight: normal;
   font-style: italic;
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 main ol {
-  list-style-type:lower-greek;
+  list-style-type: lower-greek;
 }
 
 p:last-of-type {
